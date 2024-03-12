@@ -8,9 +8,12 @@ Este é um simples gerador de QR Code desenvolvido utilizando HTML, CSS e JavaSc
 - Valida se a URL inserida é válida antes de gerar o QR Code.
 - Exibe mensagens de alerta para notificar o usuário sobre a inserção de URLs inválidas ou campos em branco.
 
+## Teste Online
+Você pode testar este projeto online [aqui](https://gerador-qrcode-lyart.vercel.app/). 
+
 ## Como usar
 
-1. Clone este repositório para o seu ambiente de desenvolvimento local.
+- Clone este repositório para o seu ambiente de desenvolvimento local.
 
 ```bash
 git clone https://github.com/arthurazevedods/GeradorQRcode.git
